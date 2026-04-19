@@ -24,3 +24,12 @@ This is a mini project developed to help students manage study tasks, deadlines,
 
 ## College
 SRM TRP Engineering College
+
+## Future Improvements
+- GUI Interface
+- Mobile App
+- Notifications
+- Database Support
+
+## Author
+Uploaded and maintained by Deenadhayalan S
